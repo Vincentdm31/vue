@@ -7,5 +7,17 @@ import AxPagination from './pagination';
 import AxSidenav from './sidenav';
 import AxTab from './tab';
 import AxTooltip from './tooltip';
+import Rating from './rating';
 
-export { AxBtn, AxForms, AxCollapsible, AxDropdown, AxModal, AxPagination, AxSidenav, AxTab, AxTooltip };
+export {
+  AxBtn,
+  AxForms,
+  AxCollapsible,
+  AxDropdown,
+  AxModal,
+  AxPagination,
+  AxSidenav,
+  AxTab,
+  AxTooltip,
+  Rating,
+};
